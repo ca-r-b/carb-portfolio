@@ -46,7 +46,7 @@ const WorkCard = ({
               {
                 repoIsLocked
                 ? <a className="bg-slate-500/60 p-2 rounded-md flex flex-wrap items-center gap-2 hover:bg-black/50 hover:transition hover:duration-200">
-                <FaLock/> Private repository
+                <FaLock/> Private Repository
                 </a>
                 : null
               }
