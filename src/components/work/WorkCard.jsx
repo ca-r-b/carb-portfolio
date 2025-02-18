@@ -28,7 +28,7 @@ const WorkCard = ({
         <img src={img} alt="" className="transition-transform blur-[0.3px] group-hover:scale-110 duration-200 mx-auto drop-shadow-2xl"></img>
         <div className="absolute inset-0 flex items-end bg-gradient-to-t from-black/90 via-black/60 to-transparent duration-200">
           <div className="p-5 text-white text-[13px]">
-            <h1 className="text-md md:text-[18px] font-bold font-pri">
+            <h1 className="text-xl md:text-[18px] font-bold font-pri">
               {projectName}
             </h1>
             {/* <h2 className="text-white/70">
