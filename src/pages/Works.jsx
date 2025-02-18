@@ -15,7 +15,7 @@ const Works = () => {
     transition={{duration: 0.5, delay: 0.2}}
     >
       <div className="flex flex-col">
-        <section>
+        <section id="prev">
           <WorkHeader
           mainTitle="Projects & Concepts 🚀"
           subTitle1="Built with passion..."
@@ -36,7 +36,14 @@ const Works = () => {
             <WorkHistory/>
           </div>
         </section>
-        <div class="divider-2 wave-2-4 mb-5 md:mb-10"></div>
+        <div class="divider-2 wave-2-4"></div>
+        <div className="flex flex-wrap items-center justify-center mx-auto bg-zinc-800 text-center max-w-[20%] max-h-[10%] rounded-lg mb-5 hover:bg-zinc-500 transition duration-300">
+          <a href="#prev">
+            <div className="text-white p-5">
+              Go back to top ↑
+            </div>
+          </a>
+        </div>
       </div>
     </motion.div>
   )
