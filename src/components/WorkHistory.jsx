@@ -37,8 +37,8 @@ const WorkHistory = () => {
         subtitle="Executive for External Relations"
         body={
           <>
-            <p>- Coordinated with professionals of various fields to develop content for events such as the organization’s podcast, TechKwentuhan. </p>
-            <p>- Helped maintain strong relationships with partner organizations within the university. </p>
+            <p>- Coordinated with professionals of various fields to develop content for events such as the organization’s podcast, TechKwentuhan.</p>
+            <p>- Helped in maintaining strong relationships with partnered student organizations within the university.</p>
           </>
         }
         />
@@ -49,7 +49,7 @@ const WorkHistory = () => {
         subtitle="Student Volunteer"
         body={
           <>
-          <p>- Took an active role in facilitating & organizing events such as the Pintakasi ning Sasabyung 
+          <p>- Took an active role in helping with facilitating & organizing events such as the Pintakasi ning Sasabyung 
           Boinon for advancing arts & cultural initiatives in Buhi, Camarines Sur.</p>
           </>
         }
