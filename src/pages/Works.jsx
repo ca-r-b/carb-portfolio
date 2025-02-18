@@ -37,7 +37,7 @@ const Works = () => {
           </div>
         </section>
         <div class="divider-2 wave-2-4"></div>
-        <div className="flex flex-wrap items-center justify-center mx-auto bg-zinc-800 text-center max-w-[20%] max-h-[10%] rounded-lg mb-5 hover:bg-zinc-500 transition duration-300">
+        <div className="flex flex-wrap items-center justify-center mx-auto bg-[#222f3e] text-center max-w-[20%] max-h-[10%] rounded-lg mb-5 hover:bg-[#222f3e]/70 transition duration-300">
           <a href="#prev">
             <div className="text-white p-5">
               Go back to top ↑

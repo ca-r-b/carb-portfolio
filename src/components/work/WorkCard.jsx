@@ -24,7 +24,7 @@ const WorkCard = ({
 
   return (
     <div className="pb-5 md:pb-10">
-      <div className=" mx-auto relative h-75 max-w-1000 md:max-w-[85%] overflow-hidden items-start rounded-2xl group">
+      <div className="bg-zinc-500 mx-auto relative h-75 max-w-1000 md:max-w-[85%] overflow-hidden items-start rounded-2xl group">
         <img src={img} alt="" className="transition-transform blur-[0.3px] group-hover:scale-110 duration-200 mx-auto drop-shadow-2xl"></img>
         <div className="absolute inset-0 flex items-end bg-gradient-to-t from-black/90 via-black/60 to-transparent duration-200">
           <div className="p-5 text-white text-[13px]">

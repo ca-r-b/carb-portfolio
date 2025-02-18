@@ -15,9 +15,9 @@ const Accordion = ({
                 onClick={() => setAccordionOpen(!accordionOpen)}
                 className='flex justify-between w-full text-start'>
                     <div className='flex flex-col'>
-                        <span className='text-[#54a0ff] text-lg md:text-xl font-bold'>{title}</span>
-                        <span className='text-blue-200'>{duration}</span>
-                        <span className='text-blue-200'>{subtitle}</span>
+                        <span className='text-[#54b5ff] text-lg md:text-xl font-bold'>{title}</span>
+                        <span className='text-blue-100'>{duration}</span>
+                        <span className='text-blue-100'>{subtitle}</span>
                     </div>
                     <svg
                     className="fill-white shrink-0 ml-8"
