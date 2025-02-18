@@ -17,7 +17,7 @@ const Works = () => {
       <div className="flex flex-col">
         <section>
           <WorkHeader
-          mainTitle="🚀 Projects & Concepts"
+          mainTitle="Projects & Concepts 🚀"
           subTitle1="Built with passion..."
           subTitle2="...powered by coffee"
           />
@@ -27,7 +27,7 @@ const Works = () => {
         <section>
           <div className="flex flex-col justify-between bg-[#222f3e] pb-10">
             <WorkHeader
-            mainTitle="🎖️ Roles & Experiences"
+            mainTitle="Roles & Experiences 🎖️"
             subTitle1="Shaping my career..."
             subTitle2="...one role at a time"
             fontMainTitleColor="text-white"
