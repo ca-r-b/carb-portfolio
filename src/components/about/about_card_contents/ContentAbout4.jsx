@@ -22,7 +22,7 @@ const ContentAbout4 = () => {
         <EducationInfo
         schoolName="San Beda University - Manila"
         schoolLevel="Senior High School (STEM)"
-        schoolYear="2017 - 2019"
+        schoolYear="2018 - 2020"
         schoolAwards="Academic Distinction"
         schoolClubs="Elite Mathematics Circle Club, Lux Et Umbra Societas"
         />
