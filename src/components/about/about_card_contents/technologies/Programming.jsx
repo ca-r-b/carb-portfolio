@@ -16,7 +16,6 @@ const Programming = () => {
             <FaJava size={techSize}/>
             <SiKotlin size={techSize}/>
             <FaJs size={techSize}/>
-            <FaPython size={techSize}/>
         </>
     )
 }
