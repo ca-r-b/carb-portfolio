@@ -10,8 +10,7 @@ const ContentAbout2 = () => {
             {/* <FaFire className='size-3'/> */}
             <h1 className='text-[80%]'>🔥 Passionate about</h1>
           </span>
-          <h2 className='font-bold'>Cloud &</h2>
-          <h2 className='font-bold'>DevOps</h2>
+          <h2 className='font-bold'>Cloud & DevOps</h2>
         </div>
     </div>
   )
